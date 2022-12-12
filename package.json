@@ -1,0 +1,27 @@
+{
+  "name": "botanical_garden",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.4",
+    "pinia": "^2.0.23",
+    "popper.js": "^1.16.1",
+    "qs": "^6.11.0",
+    "sass": "^1.56.2",
+    "sweetalert2": "^11.6.14",
+    "vue": "^3.2.41",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.2",
+    "vite": "^3.1.8"
+  }
+}

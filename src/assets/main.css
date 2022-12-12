@@ -1,0 +1,9 @@
+@import './base.css';
+
+html{
+  font-family: 'Open Sans', sans-serif;
+}
+.v-list-item:hover > .v-list-item__overlay{
+  opacity: 0 ;
+  
+}
